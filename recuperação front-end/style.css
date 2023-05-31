@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 25px;
+}
+.title{
+    text-align: center;
+    align-items: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.area-menu{
+    align-items: center;
+    text-align: center;
+}
+.img1{
+  align-items: center;
+  margin-left: 220px;
+  display: flex;
+}
+.img2{
+    position: absolute;
+    display: flex;
+    margin-left: 825px;
+    margin-top: -352px;
+}
+.img3{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-left: 220px;
+    margin-top: -70px;
+}
+.img4{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-left: 523px;
+    margin-top: -70px;
+}
+.leticia{
+    position: absolute;
+    padding: 240px;
+    margin-left: 300px;
+    
+}
+.icones{
+    position: absolute;
+    padding: 310px;
+    margin-left: 100px;
+}
